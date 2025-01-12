@@ -9,3 +9,5 @@ An Introduction to Statistical Learning with application by Gareth James, Daniel
 # Recommender System
 Recommender Systems by Charu C. Aggarwal
 Statistical Methods for Recommender Systems by Deepak K. Agarwal, Bee-Chung Chen
+
+# Papers
