@@ -7,7 +7,8 @@ Learn Reco from scratch
 - An Introduction to Statistical Learning with application by Gareth James, Daniela Witten, Trevor Hastie Robert Tibshirani, Jonathan Taylor
 
 # Recommender System
-- Recommender Systems by Charu C. Aggarwal
 - Statistical Methods for Recommender Systems by Deepak K. Agarwal, Bee-Chung Chen
+- Pratical Recommender Systems by Kim Falk
+- Recommender Systems by Charu C. Aggarwal
 
 # Papers
